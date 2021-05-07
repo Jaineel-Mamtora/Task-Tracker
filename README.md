@@ -12,16 +12,24 @@ Dependencies used:
 
 Install the Dependencies:
 
-> npm install
+```
+npm install
+```
 
 Run React Dev Server:
 
-> npm start
+```
+npm start
+```
 
 Run the JSON Server:
 
-> npm run server
+```
+npm run server
+```
 
 Create production build:
 
-> npm run build
+```
+npm run build
+```
